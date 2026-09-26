@@ -101,14 +101,14 @@ configs:
 
 <br/>
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-IndicOCR%20Dataset-0284c7.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-10b981.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
-[![POSIX WebDataset](https://img.shields.io/badge/Format-POSIX%20WebDataset%20(.tar)-f59e0b.svg?style=for-the-badge)](https://github.com/webdataset/webdataset)
-[![PyTorch Streaming](https://img.shields.io/badge/PyTorch-Streaming%20Ready-6366f1.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
-[![Verified Samples](https://img.shields.io/badge/Verified%20Volume-13%2C250%2C000%20Samples-8b5cf6.svg?style=for-the-badge)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
-[![POSIX Shards](https://img.shields.io/badge/POSIX%20Shards-2%2C650%20Shards-10b981.svg?style=for-the-badge)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
-[![Languages](https://img.shields.io/badge/Languages-23%20Pan--Indic%20Languages-38bdf8.svg?style=for-the-badge)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
-[![Writing Systems](https://img.shields.io/badge/Scripts-12%20Distinct%20Writing%20Systems-ec4899.svg?style=for-the-badge)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-IndicOCR-0284c7.svg)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-10b981.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Format: POSIX WebDataset](https://img.shields.io/badge/Format-POSIX%20WebDataset%20(.tar)-f59e0b.svg)](https://github.com/webdataset/webdataset)
+[![PyTorch Streaming](https://img.shields.io/badge/PyTorch-Streaming%20DDP%20Ready-6366f1.svg)](https://pytorch.org/)
+[![Verified Volume](https://img.shields.io/badge/Verified%20Volume-13%2C250%2C000%20Samples-8b5cf6.svg)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
+[![POSIX Shards](https://img.shields.io/badge/POSIX%20Shards-2%2C650%20Shards-10b981.svg)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
+[![Languages](https://img.shields.io/badge/Languages-23%20Pan--Indic%20Languages-38bdf8.svg)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
+[![Scripts](https://img.shields.io/badge/Scripts-12%20Distinct%20Writing%20Systems-ec4899.svg)](https://huggingface.co/datasets/Faizaniqbal/IndicOCR)
 
 **A large-scale, high-fidelity synthetic Document AI & OCR benchmark spanning 23 Pan-Indic languages and 12 distinct writing systems.**
 

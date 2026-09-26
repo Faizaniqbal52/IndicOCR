@@ -1,47 +1,10 @@
-# Environments & Secrets
-.env
-.env.*
-*.env
+# Ignore everything in the repository by default
+/*
 
-# Python Bytecode & Cache
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Editor & OS Files
-.DS_Store
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Large Datasets & Shards
-data/
-*.tar
-output_prod/
-kaggle_cloud_pipeline/*output*/
-kaggle_cloud_pipeline/*_output*/
-kaggle_cloud_pipeline/smoke*/
-kaggle_cloud_pipeline/v4_output/
-kaggle_cloud_pipeline/v5_output/
-kaggle_cloud_pipeline/deep_audit/
-kaggle_cloud_pipeline/output/
-kaggle_cloud_pipeline/output_debug/
-kaggle_cloud_pipeline/latest_cloud_output/
-
-# Heavy Cache, Scratch & Logs
-scratch/
-logs/
-fonts/
-
-# Temporary Image Dumps & Local Inspection Plates
-plate_*.png
-master_*.png
-test_*.png
-bhojpuri_completion_report.png
-samples_*/
-kaggle_workers/
+# Explicitly whitelist only public presentation files
+!/README.md
+!/LICENSE
+!/.gitignore
+!/assets/
+assets/*
+!assets/hero_banner.png

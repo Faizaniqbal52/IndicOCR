@@ -1,0 +1,43 @@
+================================================================================
+COMPREHENSIVE PAN-INDIC CORPUS CONTAMINATION AUDIT (7 LANGUAGES)
+================================================================================
+
+>>> [1/7] AUDITING: BODO (alayaran/bodo-monolingual-dataset)
+  Total Lines Sampled: 501
+  Hindi Contaminated Lines: 25 (4.99%)
+    - Flagged [hits: {'अपनी', 'करने', 'कि', 'उन्होंने', 'को', 'के', 'लिए', 'नहीं'}]: उन्होंने कहा कि जब सोनोवाल सरकार सत्ता में आई तो 6 लाख से अधिक आदिवासियों के पास अपनी जमीन का दावा क...
+    - Flagged [hits: {'कि', 'को', 'के', 'कर', 'लिए'}]: सीक्रेट सर्विस ने कहा कि उनके "कर्मचारी वर्तमान में लाफयेट पार्क में एक प्रदर्शन के दौरान अन्य कानून...
+    - Flagged [hits: {'थी', 'को', 'के', 'लिए', 'पर'}]: वन्यजीव सप्ताह की शुरुआत में चिड़ियाघर ने ऑनलाइन (पोस्टर एंड पेंटिंग) प्रतियोगिताएं शुरू की, जिसके ल...
+
+>>> [2/7] AUDITING: NEPALI (wikimedia/wikipedia 20231101.ne)
+  Total Articles Sampled: 101
+  Suspicious Hindi-style Lines: 0
+
+>>> [3/7] AUDITING: SINDHI (wikimedia/wikipedia 20231101.sd)
+  Total Articles Sampled: 101
+  Authentic Sindhi Lines (contains distinct Sindhi glyphs): 1784
+  Urdu-only Lines (missing Sindhi characters): 0
+
+>>> [4/7] AUDITING: MANIPURI (wikimedia/wikipedia 20231101.mni)
+  Total Articles Sampled: 101
+  Meetei Mayek Lines: 170
+  Bengali Script Lines: 0
+
+>>> [5/7] AUDITING: SANTALI (wikimedia/wikipedia 20231101.sat)
+  Total Articles Sampled: 101
+  Ol Chiki Lines: 1381
+  Non-Ol Chiki Lines: 605
+
+>>> [6/7] AUDITING: PUNJABI (wikimedia/wikipedia 20231101.pa)
+  Total Articles Sampled: 101
+  Gurmukhi Lines: 1938
+  Foreign Script Lines: 94
+
+>>> [7/7] AUDITING: KANNADA (wikimedia/wikipedia 20231101.kn)
+  Total Articles Sampled: 101
+  Kannada Lines: 5275
+  Foreign Script Lines: 106
+
+================================================================================
+AUDIT COMPLETE: All 7 language corpora analyzed.
+================================================================================

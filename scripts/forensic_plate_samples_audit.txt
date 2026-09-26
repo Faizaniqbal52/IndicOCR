@@ -1,0 +1,1076 @@
+================================================================================
+DEEP LINGUISTIC INSPECTION: NEP (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\nep\nep_train_00000.tar)
+================================================================================
+
+--- [nep_0000000] Tier: Tier_1_FullPage | Font: NotoSansDevanagari-Regular.ttf ---
+Raw Text:
+गोरखापत्र दैनिक विशेष समाचार तथा विचार
+५,०५,९९० वर्ग किलोमिटर १,९५,३६० वर्ग माइल क्षेत्रफल भएको स्पेन
+युरोपेली सङ्घको दोस्रो सबैभन्दा ठूलो देश हो ४.७४ करोड भन्दा बढी
+शान्ति मिसनमा प्रमुख योगदानकर्तामध्ये एक हो नेपालले दक्षिण
+एसियामा बृहत्तर सहयोगलाई जोड दिन्छ दक्षिण एसियाली क्षेत्रीय
+सहयोग सङ्गठन जसको स्थायी सचिवालय काठमाडौँमा आयोजना
+गरिएको
+अखबार, टेलिभिजन र रेडियोमा पनि यसको प्रयोग गरिन्छ। मान्यता प्राप्त
+राष्ट्रिय भाषा केप भर्डेली क्रिओल पनि पर्दछ। यो भाषा अधिकांश
+मानिसहरूले बोल्ने गर्दछन्।
+वा उनीहरू विरुद्ध शुरू भएको मुद्दामा सहयोग पुर्‍याउन सक्दछ यदि मुद्दा
+अदालतमा जान्छ भने वकिलले उनीहरूको क्लाइन्टलाई अदालतमा
+प्रतिनिधित्व गर्दछ।
+गणित बिना पनि बुझ्न सकिन्छ तर जटिलतर समस्याहरू भने गणितको
+सहयोगले सजिलै बुझ्न कहिलेकांहि गणितले यथार्थ जगतमा
+अहिलेसम्म भेउ नपाइएका
+यो विभिन्न ठाउँमा विभिन्न अबस्थामा पाइन्छ मुख्यत महासागर वर्षा खोला
+समुद्रमा तरल अवस्थामा ध्रुवमा बादलमा बरफ अथवा ठोस अवस्थामा
+बाफ तुबालो आदि
+यो इलाकामा बसोबास गर्ने चेवा मानिसहरूको लागि पुरानो नाम हो। यस
+देशलाई यहाँ बस्ने मानिसहरू मित्रवत् व्यवहार गर्ने भएकाले अफ्रिकाको
+न्यानो हृदय भन्ने
+नेपालमा राज्य गरिरहेको मल्ल महासङ्घको राजधानीको रूपमा सेवा
+गरेका यी सहररूले कला वास्तुकला सौन्दर्यशास्त्र व्यापारमा
+एक-अर्कासँग प्रतिस्पर्धा गर्दै विकासको बाटो
+Tokens (178): ['गोरखापत्र', 'दैनिक', 'विशेष', 'समाचार', 'तथा', 'विचार', '५,०५,९९०', 'वर्ग', 'किलोमिटर', '१,९५,३६०', 'वर्ग', 'माइल', 'क्षेत्रफल', 'भएको', 'स्पेन', 'युरोपेली', 'सङ्घको', 'दोस्रो', 'सबैभन्दा', 'ठूलो', 'देश', 'हो', '४.७४', 'करोड', 'भन्दा', 'बढी', 'शान्ति', 'मिसनमा', 'प्रमुख', 'योगदानकर्तामध्ये', 'एक', 'हो', 'नेपालले', 'दक्षिण', 'एसियामा', 'बृहत्तर', 'सहयोगलाई', 'जोड', 'दिन्छ', 'दक्षिण', 'एसियाली', 'क्षेत्रीय', 'सहयोग', 'सङ्गठन', 'जसको', 'स्थायी', 'सचिवालय', 'काठमाडौँमा', 'आयोजना', 'गरिएको', 'अखबार,', 'टेलिभिजन', 'र', 'रेडियोमा', 'पनि', 'यसको', 'प्रयोग', 'गरिन्छ।', 'मान्यता', 'प्राप्त', 'राष्ट्रिय', 'भाषा', 'केप', 'भर्डेली', 'क्रिओल', 'पनि', 'पर्दछ।', 'यो', 'भाषा', 'अधिकांश', 'मानिसहरूले', 'बोल्ने', 'गर्दछन्।', 'वा', 'उनीहरू', 'विरुद्ध', 'शुरू', 'भएको', 'मुद्दामा', 'सहयोग', 'पुर्\u200dयाउन', 'सक्दछ', 'यदि', 'मुद्दा', 'अदालतमा', 'जान्छ', 'भने', 'वकिलले', 'उनीहरूको', 'क्लाइन्टलाई', 'अदालतमा', 'प्रतिनिधित्व', 'गर्दछ।', 'गणित', 'बिना', 'पनि', 'बुझ्न', 'सकिन्छ', 'तर', 'जटिलतर', 'समस्याहरू', 'भने', 'गणितको', 'सहयोगले', 'सजिलै', 'बुझ्न', 'कहिलेकांहि', 'गणितले', 'यथार्थ', 'जगतमा', 'अहिलेसम्म', 'भेउ', 'नपाइएका', 'यो', 'विभिन्न', 'ठाउँमा', 'विभिन्न', 'अबस्थामा', 'पाइन्छ', 'मुख्यत', 'महासागर', 'वर्षा', 'खोला', 'समुद्रमा', 'तरल', 'अवस्थामा', 'ध्रुवमा', 'बादलमा', 'बरफ', 'अथवा', 'ठोस', 'अवस्थामा', 'बाफ', 'तुबालो', 'आदि', 'यो', 'इलाकामा', 'बसोबास', 'गर्ने', 'चेवा', 'मानिसहरूको', 'लागि', 'पुरानो', 'नाम', 'हो।', 'यस', 'देशलाई', 'यहाँ', 'बस्ने', 'मानिसहरू', 'मित्रवत्', 'व्यवहार', 'गर्ने', 'भएकाले', 'अफ्रिकाको', 'न्यानो', 'हृदय', 'भन्ने', 'नेपालमा', 'राज्य', 'गरिरहेको', 'मल्ल', 'महासङ्घको', 'राजधानीको', 'रूपमा', 'सेवा', 'गरेका', 'यी', 'सहररूले', 'कला', 'वास्तुकला', 'सौन्दर्यशास्त्र', 'व्यापारमा', 'एक-अर्कासँग', 'प्रतिस्पर्धा', 'गर्दै', 'विकासको', 'बाटो']
+Char Count: 1222 | Sample Codepoints:
+  ग (U+0917: DEVANAGARI LETTER GA)
+  ो (U+094B: DEVANAGARI VOWEL SIGN O)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ख (U+0916: DEVANAGARI LETTER KHA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  प (U+092A: DEVANAGARI LETTER PA)
+  त (U+0924: DEVANAGARI LETTER TA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  र (U+0930: DEVANAGARI LETTER RA)
+    (U+0020: SPACE)
+  द (U+0926: DEVANAGARI LETTER DA)
+  ै (U+0948: DEVANAGARI VOWEL SIGN AI)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  क (U+0915: DEVANAGARI LETTER KA)
+  ... (+1207 more chars)
+
+--- [nep_0000001] Tier: Tier_4_Word | Font: RozhaOne-Regular.ttf ---
+Raw Text:
+पनि
+Tokens (1): ['पनि']
+Char Count: 3 | Sample Codepoints:
+  प (U+092A: DEVANAGARI LETTER PA)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+
+--- [nep_0000002] Tier: Tier_4_Word | Font: NotoSansDevanagari-Regular.ttf ---
+Raw Text:
+यो
+Tokens (1): ['यो']
+Char Count: 2 | Sample Codepoints:
+  य (U+092F: DEVANAGARI LETTER YA)
+  ो (U+094B: DEVANAGARI VOWEL SIGN O)
+
+--- [nep_0000003] Tier: Tier_3_Line | Font: RozhaOne-Regular.ttf ---
+Raw Text:
+टाढा दक्षिणबाट पल्लवहरूद्वारा पराजित भए जसको फलस्वरूप
+Tokens (7): ['टाढा', 'दक्षिणबाट', 'पल्लवहरूद्वारा', 'पराजित', 'भए', 'जसको', 'फलस्वरूप']
+Char Count: 53 | Sample Codepoints:
+  ट (U+091F: DEVANAGARI LETTER TTA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ढ (U+0922: DEVANAGARI LETTER DDHA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+    (U+0020: SPACE)
+  द (U+0926: DEVANAGARI LETTER DA)
+  क (U+0915: DEVANAGARI LETTER KA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  ष (U+0937: DEVANAGARI LETTER SSA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  ण (U+0923: DEVANAGARI LETTER NNA)
+  ब (U+092C: DEVANAGARI LETTER BA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ट (U+091F: DEVANAGARI LETTER TTA)
+    (U+0020: SPACE)
+  ... (+38 more chars)
+
+--- [nep_0000004] Tier: Tier_3_Line | Font: YatraOne-Regular.ttf ---
+Raw Text:
+गरिने अगार्मी परिबर्तन हुन्छ भने तेसलाई राजनीति भनिन्छ
+Tokens (8): ['गरिने', 'अगार्मी', 'परिबर्तन', 'हुन्छ', 'भने', 'तेसलाई', 'राजनीति', 'भनिन्छ']
+Char Count: 54 | Sample Codepoints:
+  ग (U+0917: DEVANAGARI LETTER GA)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  न (U+0928: DEVANAGARI LETTER NA)
+  े (U+0947: DEVANAGARI VOWEL SIGN E)
+    (U+0020: SPACE)
+  अ (U+0905: DEVANAGARI LETTER A)
+  ग (U+0917: DEVANAGARI LETTER GA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  म (U+092E: DEVANAGARI LETTER MA)
+  ी (U+0940: DEVANAGARI VOWEL SIGN II)
+    (U+0020: SPACE)
+  प (U+092A: DEVANAGARI LETTER PA)
+  ... (+39 more chars)
+
+--- [nep_0000005] Tier: Tier_3_Line | Font: NotoSansDevanagari-Regular.ttf ---
+Raw Text:
+यसै प्रकार यो सहरको उत्तरमा नागार्जुन तारकेश्वर टोखा बुढानीलकण्ठ
+Tokens (9): ['यसै', 'प्रकार', 'यो', 'सहरको', 'उत्तरमा', 'नागार्जुन', 'तारकेश्वर', 'टोखा', 'बुढानीलकण्ठ']
+Char Count: 64 | Sample Codepoints:
+  य (U+092F: DEVANAGARI LETTER YA)
+  स (U+0938: DEVANAGARI LETTER SA)
+  ै (U+0948: DEVANAGARI VOWEL SIGN AI)
+    (U+0020: SPACE)
+  प (U+092A: DEVANAGARI LETTER PA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  र (U+0930: DEVANAGARI LETTER RA)
+  क (U+0915: DEVANAGARI LETTER KA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  र (U+0930: DEVANAGARI LETTER RA)
+    (U+0020: SPACE)
+  य (U+092F: DEVANAGARI LETTER YA)
+  ो (U+094B: DEVANAGARI VOWEL SIGN O)
+    (U+0020: SPACE)
+  स (U+0938: DEVANAGARI LETTER SA)
+  ... (+49 more chars)
+
+--- [nep_0000006] Tier: Tier_3_Line | Font: NotoSerifDevanagari-Regular.ttf ---
+Raw Text:
+दन्तेश्वरी माता बस्तर अञ्चलका निवासीहरूको आराध्य देवी हुन्, जसलाई दुर्गाको रूप मानिन्छ।
+Tokens (12): ['दन्तेश्वरी', 'माता', 'बस्तर', 'अञ्चलका', 'निवासीहरूको', 'आराध्य', 'देवी', 'हुन्,', 'जसलाई', 'दुर्गाको', 'रूप', 'मानिन्छ।']
+Char Count: 87 | Sample Codepoints:
+  द (U+0926: DEVANAGARI LETTER DA)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  त (U+0924: DEVANAGARI LETTER TA)
+  े (U+0947: DEVANAGARI VOWEL SIGN E)
+  श (U+0936: DEVANAGARI LETTER SHA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  व (U+0935: DEVANAGARI LETTER VA)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ी (U+0940: DEVANAGARI VOWEL SIGN II)
+    (U+0020: SPACE)
+  म (U+092E: DEVANAGARI LETTER MA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  त (U+0924: DEVANAGARI LETTER TA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ... (+72 more chars)
+
+--- [nep_0000007] Tier: Tier_4_Word | Font: RozhaOne-Regular.ttf ---
+Raw Text:
+छन्
+Tokens (1): ['छन्']
+Char Count: 3 | Sample Codepoints:
+  छ (U+091B: DEVANAGARI LETTER CHA)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+================================================================================
+DEEP LINGUISTIC INSPECTION: SND (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\snd\snd_train_00000.tar)
+================================================================================
+
+--- [snd_0000000] Tier: Tier_3_Line | Font: Amiri-Regular.ttf ---
+Raw Text:
+فصل لاءِ ڌار ٻن ڏنگين ليڪن ڏنل
+Tokens (7): ['فصل', 'لاءِ', 'ڌار', 'ٻن', 'ڏنگين', 'ليڪن', 'ڏنل']
+Char Count: 30 | Sample Codepoints:
+  ف (U+0641: ARABIC LETTER FEH)
+  ص (U+0635: ARABIC LETTER SAD)
+  ل (U+0644: ARABIC LETTER LAM)
+    (U+0020: SPACE)
+  ل (U+0644: ARABIC LETTER LAM)
+  ا (U+0627: ARABIC LETTER ALEF)
+  ء (U+0621: ARABIC LETTER HAMZA)
+  ِ (U+0650: ARABIC KASRA)
+    (U+0020: SPACE)
+  ڌ (U+068C: ARABIC LETTER DAHAL)
+  ا (U+0627: ARABIC LETTER ALEF)
+  ر (U+0631: ARABIC LETTER REH)
+    (U+0020: SPACE)
+  ٻ (U+067B: ARABIC LETTER BEEH)
+  ن (U+0646: ARABIC LETTER NOON)
+  ... (+15 more chars)
+
+--- [snd_0000001] Tier: Tier_3_Line | Font: NotoNaskhArabic-Regular.ttf ---
+Raw Text:
+لفظ تور انگريزي ٻين ٻولين استعمال ڪرڻ شروع ڪيو
+Tokens (9): ['لفظ', 'تور', 'انگريزي', 'ٻين', 'ٻولين', 'استعمال', 'ڪرڻ', 'شروع', 'ڪيو']
+Char Count: 46 | Sample Codepoints:
+  ل (U+0644: ARABIC LETTER LAM)
+  ف (U+0641: ARABIC LETTER FEH)
+  ظ (U+0638: ARABIC LETTER ZAH)
+    (U+0020: SPACE)
+  ت (U+062A: ARABIC LETTER TEH)
+  و (U+0648: ARABIC LETTER WAW)
+  ر (U+0631: ARABIC LETTER REH)
+    (U+0020: SPACE)
+  ا (U+0627: ARABIC LETTER ALEF)
+  ن (U+0646: ARABIC LETTER NOON)
+  گ (U+06AF: ARABIC LETTER GAF)
+  ر (U+0631: ARABIC LETTER REH)
+  ي (U+064A: ARABIC LETTER YEH)
+  ز (U+0632: ARABIC LETTER ZAIN)
+  ي (U+064A: ARABIC LETTER YEH)
+  ... (+31 more chars)
+
+--- [snd_0000002] Tier: Tier_4_Word | Font: NotoSansArabic-Regular.ttf ---
+Raw Text:
+کي
+Tokens (1): ['کي']
+Char Count: 2 | Sample Codepoints:
+  ک (U+06A9: ARABIC LETTER KEHEH)
+  ي (U+064A: ARABIC LETTER YEH)
+
+--- [snd_0000003] Tier: Tier_4_Word | Font: Amiri-Regular.ttf ---
+Raw Text:
+آهي
+Tokens (1): ['آهي']
+Char Count: 3 | Sample Codepoints:
+  آ (U+0622: ARABIC LETTER ALEF WITH MADDA ABOVE)
+  ه (U+0647: ARABIC LETTER HEH)
+  ي (U+064A: ARABIC LETTER YEH)
+
+--- [snd_0000004] Tier: Tier_3_Line | Font: NotoSansArabic-Regular.ttf ---
+Raw Text:
+ٿو، اهڙي طرح هڪ عوامي
+Tokens (5): ['ٿو،', 'اهڙي', 'طرح', 'هڪ', 'عوامي']
+Char Count: 21 | Sample Codepoints:
+  ٿ (U+067F: ARABIC LETTER TEHEH)
+  و (U+0648: ARABIC LETTER WAW)
+  ، (U+060C: ARABIC COMMA)
+    (U+0020: SPACE)
+  ا (U+0627: ARABIC LETTER ALEF)
+  ه (U+0647: ARABIC LETTER HEH)
+  ڙ (U+0699: ARABIC LETTER REH WITH FOUR DOTS ABOVE)
+  ي (U+064A: ARABIC LETTER YEH)
+    (U+0020: SPACE)
+  ط (U+0637: ARABIC LETTER TAH)
+  ر (U+0631: ARABIC LETTER REH)
+  ح (U+062D: ARABIC LETTER HAH)
+    (U+0020: SPACE)
+  ه (U+0647: ARABIC LETTER HEH)
+  ڪ (U+06AA: ARABIC LETTER SWASH KAF)
+  ... (+6 more chars)
+
+--- [snd_0000005] Tier: Tier_3_Line | Font: Lateef-Regular.ttf ---
+Raw Text:
+جنهن هن وسندي کي پنهنجو گهر ٺاهيو.
+Tokens (7): ['جنهن', 'هن', 'وسندي', 'کي', 'پنهنجو', 'گهر', 'ٺاهيو.']
+Char Count: 34 | Sample Codepoints:
+  ج (U+062C: ARABIC LETTER JEEM)
+  ن (U+0646: ARABIC LETTER NOON)
+  ه (U+0647: ARABIC LETTER HEH)
+  ن (U+0646: ARABIC LETTER NOON)
+    (U+0020: SPACE)
+  ه (U+0647: ARABIC LETTER HEH)
+  ن (U+0646: ARABIC LETTER NOON)
+    (U+0020: SPACE)
+  و (U+0648: ARABIC LETTER WAW)
+  س (U+0633: ARABIC LETTER SEEN)
+  ن (U+0646: ARABIC LETTER NOON)
+  د (U+062F: ARABIC LETTER DAL)
+  ي (U+064A: ARABIC LETTER YEH)
+    (U+0020: SPACE)
+  ک (U+06A9: ARABIC LETTER KEHEH)
+  ... (+19 more chars)
+
+--- [snd_0000006] Tier: Tier_3_Line | Font: Lateef-Regular.ttf ---
+Raw Text:
+ليڪچر ڪلاڪن جا ڪلاڪ هليا
+Tokens (5): ['ليڪچر', 'ڪلاڪن', 'جا', 'ڪلاڪ', 'هليا']
+Char Count: 24 | Sample Codepoints:
+  ل (U+0644: ARABIC LETTER LAM)
+  ي (U+064A: ARABIC LETTER YEH)
+  ڪ (U+06AA: ARABIC LETTER SWASH KAF)
+  چ (U+0686: ARABIC LETTER TCHEH)
+  ر (U+0631: ARABIC LETTER REH)
+    (U+0020: SPACE)
+  ڪ (U+06AA: ARABIC LETTER SWASH KAF)
+  ل (U+0644: ARABIC LETTER LAM)
+  ا (U+0627: ARABIC LETTER ALEF)
+  ڪ (U+06AA: ARABIC LETTER SWASH KAF)
+  ن (U+0646: ARABIC LETTER NOON)
+    (U+0020: SPACE)
+  ج (U+062C: ARABIC LETTER JEEM)
+  ا (U+0627: ARABIC LETTER ALEF)
+    (U+0020: SPACE)
+  ... (+9 more chars)
+
+--- [snd_0000007] Tier: Tier_3_Line | Font: NotoNaskhArabic-Regular.ttf ---
+Raw Text:
+هن جي نظرين جو هاضمو نه ڪري
+Tokens (7): ['هن', 'جي', 'نظرين', 'جو', 'هاضمو', 'نه', 'ڪري']
+Char Count: 27 | Sample Codepoints:
+  ه (U+0647: ARABIC LETTER HEH)
+  ن (U+0646: ARABIC LETTER NOON)
+    (U+0020: SPACE)
+  ج (U+062C: ARABIC LETTER JEEM)
+  ي (U+064A: ARABIC LETTER YEH)
+    (U+0020: SPACE)
+  ن (U+0646: ARABIC LETTER NOON)
+  ظ (U+0638: ARABIC LETTER ZAH)
+  ر (U+0631: ARABIC LETTER REH)
+  ي (U+064A: ARABIC LETTER YEH)
+  ن (U+0646: ARABIC LETTER NOON)
+    (U+0020: SPACE)
+  ج (U+062C: ARABIC LETTER JEEM)
+  و (U+0648: ARABIC LETTER WAW)
+    (U+0020: SPACE)
+  ... (+12 more chars)
+================================================================================
+DEEP LINGUISTIC INSPECTION: SAT (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\sat\sat_train_00000.tar)
+================================================================================
+
+--- [sat_0000000] Tier: Tier_3_Line | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱥᱚᱦᱚᱨ ᱛᱟᱞᱟ ᱛᱮ ᱟᱹᱛᱩ ᱟᱠᱟᱱ
+Tokens (5): ['ᱥᱚᱦᱚᱨ', 'ᱛᱟᱞᱟ', 'ᱛᱮ', 'ᱟᱹᱛᱩ', 'ᱟᱠᱟᱱ']
+Char Count: 23 | Sample Codepoints:
+  ᱥ (U+1C65: OL CHIKI LETTER IS)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+  ᱦ (U+1C66: OL CHIKI LETTER IH)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+  ᱨ (U+1C68: OL CHIKI LETTER IR)
+    (U+0020: SPACE)
+  ᱛ (U+1C5B: OL CHIKI LETTER AT)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱞ (U+1C5E: OL CHIKI LETTER AL)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+    (U+0020: SPACE)
+  ᱛ (U+1C5B: OL CHIKI LETTER AT)
+  ᱮ (U+1C6E: OL CHIKI LETTER LE)
+    (U+0020: SPACE)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ... (+8 more chars)
+
+--- [sat_0000001] Tier: Tier_3_Line | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱟᱠᱟᱜᱼᱟ ᱱᱚᱶᱟ ᱫᱚ ᱫᱚᱦᱲᱟ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ ᱡᱟᱜᱟᱭ ᱟᱢᱮᱴ
+Tokens (7): ['ᱟᱠᱟᱜᱼᱟ', 'ᱱᱚᱶᱟ', 'ᱫᱚ', 'ᱫᱚᱦᱲᱟ', 'ᱠᱤᱞᱚᱢᱤᱴᱚᱨ', 'ᱡᱟᱜᱟᱭ', 'ᱟᱢᱮᱴ']
+Char Count: 41 | Sample Codepoints:
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱠ (U+1C60: OL CHIKI LETTER AAK)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱜ (U+1C5C: OL CHIKI LETTER AG)
+  ᱼ (U+1C7C: OL CHIKI PHAARKAA)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+    (U+0020: SPACE)
+  ᱱ (U+1C71: OL CHIKI LETTER EN)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+  ᱶ (U+1C76: OL CHIKI LETTER OV)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+    (U+0020: SPACE)
+  ᱫ (U+1C6B: OL CHIKI LETTER UD)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+    (U+0020: SPACE)
+  ... (+26 more chars)
+
+--- [sat_0000002] Tier: Tier_4_Word | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱠᱚ
+Tokens (1): ['ᱠᱚ']
+Char Count: 2 | Sample Codepoints:
+  ᱠ (U+1C60: OL CHIKI LETTER AAK)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+
+--- [sat_0000003] Tier: Tier_3_Line | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱫᱚ ᱥᱟᱯᱷᱟᱭ ᱫᱚᱦᱚᱭᱟ
+Tokens (3): ['ᱫᱚ', 'ᱥᱟᱯᱷᱟᱭ', 'ᱫᱚᱦᱚᱭᱟ']
+Char Count: 16 | Sample Codepoints:
+  ᱫ (U+1C6B: OL CHIKI LETTER UD)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+    (U+0020: SPACE)
+  ᱥ (U+1C65: OL CHIKI LETTER IS)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱯ (U+1C6F: OL CHIKI LETTER EP)
+  ᱷ (U+1C77: OL CHIKI LETTER OH)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱭ (U+1C6D: OL CHIKI LETTER UY)
+    (U+0020: SPACE)
+  ᱫ (U+1C6B: OL CHIKI LETTER UD)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+  ᱦ (U+1C66: OL CHIKI LETTER IH)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+  ᱭ (U+1C6D: OL CHIKI LETTER UY)
+  ... (+1 more chars)
+
+--- [sat_0000004] Tier: Tier_4_Word | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱨᱮᱱᱟᱜ
+Tokens (1): ['ᱨᱮᱱᱟᱜ']
+Char Count: 5 | Sample Codepoints:
+  ᱨ (U+1C68: OL CHIKI LETTER IR)
+  ᱮ (U+1C6E: OL CHIKI LETTER LE)
+  ᱱ (U+1C71: OL CHIKI LETTER EN)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱜ (U+1C5C: OL CHIKI LETTER AG)
+
+--- [sat_0000005] Tier: Tier_4_Word | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱠᱟᱱᱟ
+Tokens (1): ['ᱠᱟᱱᱟ']
+Char Count: 4 | Sample Codepoints:
+  ᱠ (U+1C60: OL CHIKI LETTER AAK)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱱ (U+1C71: OL CHIKI LETTER EN)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+
+--- [sat_0000006] Tier: Tier_3_Line | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱦᱮᱯᱨᱟᱶᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱫᱚ ᱱᱟᱥᱮ ᱟᱸᱴ ᱜᱮᱭᱟ ᱪᱮᱫᱟᱜ ᱥᱮ
+Tokens (9): ['ᱦᱮᱯᱨᱟᱶᱤᱭᱟᱹ', 'ᱠᱚ', 'ᱞᱟᱹᱜᱤᱫ', 'ᱫᱚ', 'ᱱᱟᱥᱮ', 'ᱟᱸᱴ', 'ᱜᱮᱭᱟ', 'ᱪᱮᱫᱟᱜ', 'ᱥᱮ']
+Char Count: 46 | Sample Codepoints:
+  ᱦ (U+1C66: OL CHIKI LETTER IH)
+  ᱮ (U+1C6E: OL CHIKI LETTER LE)
+  ᱯ (U+1C6F: OL CHIKI LETTER EP)
+  ᱨ (U+1C68: OL CHIKI LETTER IR)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱶ (U+1C76: OL CHIKI LETTER OV)
+  ᱤ (U+1C64: OL CHIKI LETTER LI)
+  ᱭ (U+1C6D: OL CHIKI LETTER UY)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱹ (U+1C79: OL CHIKI GAAHLAA TTUDDAAG)
+    (U+0020: SPACE)
+  ᱠ (U+1C60: OL CHIKI LETTER AAK)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+    (U+0020: SPACE)
+  ᱞ (U+1C5E: OL CHIKI LETTER AL)
+  ... (+31 more chars)
+
+--- [sat_0000007] Tier: Tier_3_Line | Font: NotoSansOlChiki-Regular.ttf ---
+Raw Text:
+ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱒᱓ ᱜᱚᱴᱟᱝ ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱯᱟᱹᱨᱥᱤ ᱢᱩᱸᱫᱽ ᱠᱷᱚᱱ ᱥᱟᱱᱛᱟᱲ
+Tokens (9): ['ᱥᱤᱧᱚᱛ', 'ᱨᱮᱱᱟᱜ', '᱒᱓', 'ᱜᱚᱴᱟᱝ', 'ᱚᱯᱷᱤᱥᱤᱭᱟᱞ', 'ᱯᱟᱹᱨᱥᱤ', 'ᱢᱩᱸᱫᱽ', 'ᱠᱷᱚᱱ', 'ᱥᱟᱱᱛᱟᱲ']
+Char Count: 55 | Sample Codepoints:
+  ᱥ (U+1C65: OL CHIKI LETTER IS)
+  ᱤ (U+1C64: OL CHIKI LETTER LI)
+  ᱧ (U+1C67: OL CHIKI LETTER INY)
+  ᱚ (U+1C5A: OL CHIKI LETTER LA)
+  ᱛ (U+1C5B: OL CHIKI LETTER AT)
+    (U+0020: SPACE)
+  ᱨ (U+1C68: OL CHIKI LETTER IR)
+  ᱮ (U+1C6E: OL CHIKI LETTER LE)
+  ᱱ (U+1C71: OL CHIKI LETTER EN)
+  ᱟ (U+1C5F: OL CHIKI LETTER LAA)
+  ᱜ (U+1C5C: OL CHIKI LETTER AG)
+    (U+0020: SPACE)
+  ᱒ (U+1C52: OL CHIKI DIGIT TWO)
+  ᱓ (U+1C53: OL CHIKI DIGIT THREE)
+    (U+0020: SPACE)
+  ... (+40 more chars)
+================================================================================
+DEEP LINGUISTIC INSPECTION: MNI (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\mni\mni_train_00000.tar)
+================================================================================
+
+--- [mni_0000000] Tier: Tier_3_Line | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+ꯆꯥꯎꯕ ꯃꯁꯤꯡ ꯗꯤ ꯲꯴꯵꯹ ꯅꯤ꯫
+Tokens (5): ['ꯆꯥꯎꯕ', 'ꯃꯁꯤꯡ', 'ꯗꯤ', '꯲꯴꯵꯹', 'ꯅꯤ꯫']
+Char Count: 21 | Sample Codepoints:
+  ꯆ (U+ABC6: MEETEI MAYEK LETTER CHIL)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+  ꯎ (U+ABCE: MEETEI MAYEK LETTER UN)
+  ꯕ (U+ABD5: MEETEI MAYEK LETTER BA)
+    (U+0020: SPACE)
+  ꯃ (U+ABC3: MEETEI MAYEK LETTER MIT)
+  ꯁ (U+ABC1: MEETEI MAYEK LETTER SAM)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+  ꯡ (U+ABE1: MEETEI MAYEK LETTER NGOU LONSUM)
+    (U+0020: SPACE)
+  ꯗ (U+ABD7: MEETEI MAYEK LETTER DIL)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+    (U+0020: SPACE)
+  ꯲ (U+ABF2: MEETEI MAYEK DIGIT TWO)
+  ꯴ (U+ABF4: MEETEI MAYEK DIGIT FOUR)
+  ... (+6 more chars)
+
+--- [mni_0000001] Tier: Tier_3_Line | Font: NotoSansBengali-Regular.ttf ---
+Raw Text:
+   ,,,   
+Tokens (1): [',,,']
+Char Count: 9 | Sample Codepoints:
+    (U+0020: SPACE)
+    (U+0020: SPACE)
+    (U+0020: SPACE)
+  , (U+002C: COMMA)
+  , (U+002C: COMMA)
+  , (U+002C: COMMA)
+    (U+0020: SPACE)
+    (U+0020: SPACE)
+    (U+0020: SPACE)
+
+--- [mni_0000002] Tier: Tier_3_Line | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+ꯂꯥꯁꯥꯅꯤꯒꯤ ꯁꯨ ꯑꯦꯗꯤꯇꯔ ꯑꯣꯢꯔꯝ꯭ꯝꯤ
+Tokens (4): ['ꯂꯥꯁꯥꯅꯤꯒꯤ', 'ꯁꯨ', 'ꯑꯦꯗꯤꯇꯔ', 'ꯑꯣꯢꯔꯝ꯭ꯝꯤ']
+Char Count: 27 | Sample Codepoints:
+  ꯂ (U+ABC2: MEETEI MAYEK LETTER LAI)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+  ꯁ (U+ABC1: MEETEI MAYEK LETTER SAM)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+  ꯅ (U+ABC5: MEETEI MAYEK LETTER NA)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+  ꯒ (U+ABD2: MEETEI MAYEK LETTER GOK)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+    (U+0020: SPACE)
+  ꯁ (U+ABC1: MEETEI MAYEK LETTER SAM)
+  ꯨ (U+ABE8: MEETEI MAYEK VOWEL SIGN UNAP)
+    (U+0020: SPACE)
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯦ (U+ABE6: MEETEI MAYEK VOWEL SIGN YENAP)
+  ꯗ (U+ABD7: MEETEI MAYEK LETTER DIL)
+  ... (+12 more chars)
+
+--- [mni_0000003] Tier: Tier_3_Line | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+꯵꯲ ꯑꯁꯤ ꯃꯁꯤꯡ ꯑꯃꯅꯤ꯫
+Tokens (4): ['꯵꯲', 'ꯑꯁꯤ', 'ꯃꯁꯤꯡ', 'ꯑꯃꯅꯤ꯫']
+Char Count: 17 | Sample Codepoints:
+  ꯵ (U+ABF5: MEETEI MAYEK DIGIT FIVE)
+  ꯲ (U+ABF2: MEETEI MAYEK DIGIT TWO)
+    (U+0020: SPACE)
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯁ (U+ABC1: MEETEI MAYEK LETTER SAM)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+    (U+0020: SPACE)
+  ꯃ (U+ABC3: MEETEI MAYEK LETTER MIT)
+  ꯁ (U+ABC1: MEETEI MAYEK LETTER SAM)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+  ꯡ (U+ABE1: MEETEI MAYEK LETTER NGOU LONSUM)
+    (U+0020: SPACE)
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯃ (U+ABC3: MEETEI MAYEK LETTER MIT)
+  ꯅ (U+ABC5: MEETEI MAYEK LETTER NA)
+  ... (+2 more chars)
+
+--- [mni_0000004] Tier: Tier_3_Line | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+ꯑꯗꯨ ꯑꯀꯤꯕꯥ ꯄꯣꯀꯄꯗꯒꯤ ꯊꯋꯥꯌ ꯌꯥꯑꯣꯈꯤ꯫
+Tokens (5): ['ꯑꯗꯨ', 'ꯑꯀꯤꯕꯥ', 'ꯄꯣꯀꯄꯗꯒꯤ', 'ꯊꯋꯥꯌ', 'ꯌꯥꯑꯣꯈꯤ꯫']
+Char Count: 30 | Sample Codepoints:
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯗ (U+ABD7: MEETEI MAYEK LETTER DIL)
+  ꯨ (U+ABE8: MEETEI MAYEK VOWEL SIGN UNAP)
+    (U+0020: SPACE)
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯀ (U+ABC0: MEETEI MAYEK LETTER KOK)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+  ꯕ (U+ABD5: MEETEI MAYEK LETTER BA)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+    (U+0020: SPACE)
+  ꯄ (U+ABC4: MEETEI MAYEK LETTER PA)
+  ꯣ (U+ABE3: MEETEI MAYEK VOWEL SIGN ONAP)
+  ꯀ (U+ABC0: MEETEI MAYEK LETTER KOK)
+  ꯄ (U+ABC4: MEETEI MAYEK LETTER PA)
+  ꯗ (U+ABD7: MEETEI MAYEK LETTER DIL)
+  ... (+15 more chars)
+
+--- [mni_0000005] Tier: Tier_4_Word | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+ꯆꯥꯎꯕ
+Tokens (1): ['ꯆꯥꯎꯕ']
+Char Count: 4 | Sample Codepoints:
+  ꯆ (U+ABC6: MEETEI MAYEK LETTER CHIL)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+  ꯎ (U+ABCE: MEETEI MAYEK LETTER UN)
+  ꯕ (U+ABD5: MEETEI MAYEK LETTER BA)
+
+--- [mni_0000006] Tier: Tier_4_Word | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+ꯑꯃꯅꯤ
+Tokens (1): ['ꯑꯃꯅꯤ']
+Char Count: 4 | Sample Codepoints:
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯃ (U+ABC3: MEETEI MAYEK LETTER MIT)
+  ꯅ (U+ABC5: MEETEI MAYEK LETTER NA)
+  ꯤ (U+ABE4: MEETEI MAYEK VOWEL SIGN INAP)
+
+--- [mni_0000007] Tier: Tier_3_Line | Font: NotoSansMeeteiMayek-Regular.ttf ---
+Raw Text:
+ꯑꯦꯅꯚꯥꯏꯔꯅꯃꯦꯟꯇꯀꯥ ꯃꯔꯤ ꯂꯩꯅꯕꯥ ꯋꯥꯐꯃꯁꯤꯡꯗꯥ ꯁꯔꯀꯥꯔꯒꯤ ꯋꯥꯔꯦꯞ ꯂꯧꯕꯒꯤ
+Tokens (7): ['ꯑꯦꯅꯚꯥꯏꯔꯅꯃꯦꯟꯇꯀꯥ', 'ꯃꯔꯤ', 'ꯂꯩꯅꯕꯥ', 'ꯋꯥꯐꯃꯁꯤꯡꯗꯥ', 'ꯁꯔꯀꯥꯔꯒꯤ', 'ꯋꯥꯔꯦꯞ', 'ꯂꯧꯕꯒꯤ']
+Char Count: 54 | Sample Codepoints:
+  ꯑ (U+ABD1: MEETEI MAYEK LETTER ATIYA)
+  ꯦ (U+ABE6: MEETEI MAYEK VOWEL SIGN YENAP)
+  ꯅ (U+ABC5: MEETEI MAYEK LETTER NA)
+  ꯚ (U+ABDA: MEETEI MAYEK LETTER BHAM)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+  ꯏ (U+ABCF: MEETEI MAYEK LETTER I)
+  ꯔ (U+ABD4: MEETEI MAYEK LETTER RAI)
+  ꯅ (U+ABC5: MEETEI MAYEK LETTER NA)
+  ꯃ (U+ABC3: MEETEI MAYEK LETTER MIT)
+  ꯦ (U+ABE6: MEETEI MAYEK VOWEL SIGN YENAP)
+  ꯟ (U+ABDF: MEETEI MAYEK LETTER NA LONSUM)
+  ꯇ (U+ABC7: MEETEI MAYEK LETTER TIL)
+  ꯀ (U+ABC0: MEETEI MAYEK LETTER KOK)
+  ꯥ (U+ABE5: MEETEI MAYEK VOWEL SIGN ANAP)
+    (U+0020: SPACE)
+  ... (+39 more chars)
+================================================================================
+DEEP LINGUISTIC INSPECTION: BRX (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\brx\brx_train_00000.tar)
+================================================================================
+
+--- [brx_0000000] Tier: Tier_3_Line | Font: NotoSansDevanagari-Regular.ttf ---
+Raw Text:
+राजखान्थिनि सेर सेर
+Tokens (3): ['राजखान्थिनि', 'सेर', 'सेर']
+Char Count: 19 | Sample Codepoints:
+  र (U+0930: DEVANAGARI LETTER RA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ज (U+091C: DEVANAGARI LETTER JA)
+  ख (U+0916: DEVANAGARI LETTER KHA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  थ (U+0925: DEVANAGARI LETTER THA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+    (U+0020: SPACE)
+  स (U+0938: DEVANAGARI LETTER SA)
+  े (U+0947: DEVANAGARI VOWEL SIGN E)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ... (+4 more chars)
+
+--- [brx_0000001] Tier: Tier_4_Word | Font: NotoSansDevanagari-Regular.ttf ---
+Raw Text:
+बे
+Tokens (1): ['बे']
+Char Count: 2 | Sample Codepoints:
+  ब (U+092C: DEVANAGARI LETTER BA)
+  े (U+0947: DEVANAGARI VOWEL SIGN E)
+
+--- [brx_0000002] Tier: Tier_2_Paragraph | Font: NotoSerifDevanagari-Regular.ttf ---
+Raw Text:
+पर तू मंजिल को पाने के लिए सब कर हाबानि माला खिन्थिगासे फावथाइया गांसे नखरारि जिउखुंनायनि सायाव बिथा खालामनानै सोर्जिनाय जादों।
+बावगारनायनि मोन्थाइयानो आंनाव गैया ना आंनो गोसो जाना बावगाराखै
+Tokens (30): ['पर', 'तू', 'मंजिल', 'को', 'पाने', 'के', 'लिए', 'सब', 'कर', 'हाबानि', 'माला', 'खिन्थिगासे', 'फावथाइया', 'गांसे', 'नखरारि', 'जिउखुंनायनि', 'सायाव', 'बिथा', 'खालामनानै', 'सोर्जिनाय', 'जादों।', 'बावगारनायनि', 'मोन्थाइयानो', 'आंनाव', 'गैया', 'ना', 'आंनो', 'गोसो', 'जाना', 'बावगाराखै']
+Char Count: 190 | Sample Codepoints:
+  प (U+092A: DEVANAGARI LETTER PA)
+  र (U+0930: DEVANAGARI LETTER RA)
+    (U+0020: SPACE)
+  त (U+0924: DEVANAGARI LETTER TA)
+  ू (U+0942: DEVANAGARI VOWEL SIGN UU)
+    (U+0020: SPACE)
+  म (U+092E: DEVANAGARI LETTER MA)
+  ं (U+0902: DEVANAGARI SIGN ANUSVARA)
+  ज (U+091C: DEVANAGARI LETTER JA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  ल (U+0932: DEVANAGARI LETTER LA)
+    (U+0020: SPACE)
+  क (U+0915: DEVANAGARI LETTER KA)
+  ो (U+094B: DEVANAGARI VOWEL SIGN O)
+    (U+0020: SPACE)
+  ... (+175 more chars)
+
+--- [brx_0000003] Tier: Tier_3_Line | Font: NotoSerifDevanagari-Regular.ttf ---
+Raw Text:
+सनु सुद बिथाङा लकडाउननि समाव गोबां सुबुंखौ मदद खालामदोंमोन
+Tokens (9): ['सनु', 'सुद', 'बिथाङा', 'लकडाउननि', 'समाव', 'गोबां', 'सुबुंखौ', 'मदद', 'खालामदोंमोन']
+Char Count: 58 | Sample Codepoints:
+  स (U+0938: DEVANAGARI LETTER SA)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ु (U+0941: DEVANAGARI VOWEL SIGN U)
+    (U+0020: SPACE)
+  स (U+0938: DEVANAGARI LETTER SA)
+  ु (U+0941: DEVANAGARI VOWEL SIGN U)
+  द (U+0926: DEVANAGARI LETTER DA)
+    (U+0020: SPACE)
+  ब (U+092C: DEVANAGARI LETTER BA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  थ (U+0925: DEVANAGARI LETTER THA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ङ (U+0919: DEVANAGARI LETTER NGA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+    (U+0020: SPACE)
+  ... (+43 more chars)
+
+--- [brx_0000004] Tier: Tier_3_Line | Font: YatraOne-Regular.ttf ---
+Raw Text:
+टाइम8, दिसेम्बर 6:
+Tokens (3): ['टाइम8,', 'दिसेम्बर', '6:']
+Char Count: 18 | Sample Codepoints:
+  ट (U+091F: DEVANAGARI LETTER TTA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  इ (U+0907: DEVANAGARI LETTER I)
+  म (U+092E: DEVANAGARI LETTER MA)
+  8 (U+0038: DIGIT EIGHT)
+  , (U+002C: COMMA)
+    (U+0020: SPACE)
+  द (U+0926: DEVANAGARI LETTER DA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  स (U+0938: DEVANAGARI LETTER SA)
+  े (U+0947: DEVANAGARI VOWEL SIGN E)
+  म (U+092E: DEVANAGARI LETTER MA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  ब (U+092C: DEVANAGARI LETTER BA)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ... (+3 more chars)
+
+--- [brx_0000005] Tier: Tier_2_Paragraph | Font: NotoSansDevanagari-Regular.ttf ---
+Raw Text:
+हिमन्तआ गोदान दोलो बानायनो नांगौ:हाग्रामा बिटिआरनि सावस्रि बिफाना रायजो राजाफोरनो सावस्रि
+सिबिथायनि थाखाय एम्बुलेन्स रान्दों दिल्लीआव सुबुंखान्थि साननि हाबाफारिआव बाहागो लागोन बांलादेश
+Tokens (22): ['हिमन्तआ', 'गोदान', 'दोलो', 'बानायनो', 'नांगौ:हाग्रामा', 'बिटिआरनि', 'सावस्रि', 'बिफाना', 'रायजो', 'राजाफोरनो', 'सावस्रि', 'सिबिथायनि', 'थाखाय', 'एम्बुलेन्स', 'रान्दों', 'दिल्लीआव', 'सुबुंखान्थि', 'साननि', 'हाबाफारिआव', 'बाहागो', 'लागोन', 'बांलादेश']
+Char Count: 184 | Sample Codepoints:
+  ह (U+0939: DEVANAGARI LETTER HA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  म (U+092E: DEVANAGARI LETTER MA)
+  न (U+0928: DEVANAGARI LETTER NA)
+  ् (U+094D: DEVANAGARI SIGN VIRAMA)
+  त (U+0924: DEVANAGARI LETTER TA)
+  आ (U+0906: DEVANAGARI LETTER AA)
+    (U+0020: SPACE)
+  ग (U+0917: DEVANAGARI LETTER GA)
+  ो (U+094B: DEVANAGARI VOWEL SIGN O)
+  द (U+0926: DEVANAGARI LETTER DA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  न (U+0928: DEVANAGARI LETTER NA)
+    (U+0020: SPACE)
+  द (U+0926: DEVANAGARI LETTER DA)
+  ... (+169 more chars)
+
+--- [brx_0000006] Tier: Tier_3_Line | Font: NotoSerifDevanagari-Regular.ttf ---
+Raw Text:
+बाय-बाहागि बिदा-फंबाय बिब’ बिनानाव
+Tokens (4): ['बाय-बाहागि', 'बिदा-फंबाय', 'बिब’', 'बिनानाव']
+Char Count: 34 | Sample Codepoints:
+  ब (U+092C: DEVANAGARI LETTER BA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  य (U+092F: DEVANAGARI LETTER YA)
+  - (U+002D: HYPHEN-MINUS)
+  ब (U+092C: DEVANAGARI LETTER BA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ह (U+0939: DEVANAGARI LETTER HA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ग (U+0917: DEVANAGARI LETTER GA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+    (U+0020: SPACE)
+  ब (U+092C: DEVANAGARI LETTER BA)
+  ि (U+093F: DEVANAGARI VOWEL SIGN I)
+  द (U+0926: DEVANAGARI LETTER DA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  ... (+19 more chars)
+
+--- [brx_0000007] Tier: Tier_3_Line | Font: YatraOne-Regular.ttf ---
+Raw Text:
+टाइम8 , भेरगाव, आगष्ट 28:
+Tokens (5): ['टाइम8', ',', 'भेरगाव,', 'आगष्ट', '28:']
+Char Count: 25 | Sample Codepoints:
+  ट (U+091F: DEVANAGARI LETTER TTA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  इ (U+0907: DEVANAGARI LETTER I)
+  म (U+092E: DEVANAGARI LETTER MA)
+  8 (U+0038: DIGIT EIGHT)
+    (U+0020: SPACE)
+  , (U+002C: COMMA)
+    (U+0020: SPACE)
+  भ (U+092D: DEVANAGARI LETTER BHA)
+  े (U+0947: DEVANAGARI VOWEL SIGN E)
+  र (U+0930: DEVANAGARI LETTER RA)
+  ग (U+0917: DEVANAGARI LETTER GA)
+  ा (U+093E: DEVANAGARI VOWEL SIGN AA)
+  व (U+0935: DEVANAGARI LETTER VA)
+  , (U+002C: COMMA)
+  ... (+10 more chars)
+================================================================================
+DEEP LINGUISTIC INSPECTION: PAN (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\pan\pan_train_00000.tar)
+================================================================================
+
+--- [pan_0000000] Tier: Tier_3_Line | Font: AnekGurmukhi-Regular.ttf ---
+Raw Text:
+ਸੁਲਤਾਨ ਜ਼ਹੂਰ ਅਖ਼ਤਰ
+Tokens (3): ['ਸੁਲਤਾਨ', 'ਜ਼ਹੂਰ', 'ਅਖ਼ਤਰ']
+Char Count: 18 | Sample Codepoints:
+  ਸ (U+0A38: GURMUKHI LETTER SA)
+  ੁ (U+0A41: GURMUKHI VOWEL SIGN U)
+  ਲ (U+0A32: GURMUKHI LETTER LA)
+  ਤ (U+0A24: GURMUKHI LETTER TA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਨ (U+0A28: GURMUKHI LETTER NA)
+    (U+0020: SPACE)
+  ਜ (U+0A1C: GURMUKHI LETTER JA)
+  ਼ (U+0A3C: GURMUKHI SIGN NUKTA)
+  ਹ (U+0A39: GURMUKHI LETTER HA)
+  ੂ (U+0A42: GURMUKHI VOWEL SIGN UU)
+  ਰ (U+0A30: GURMUKHI LETTER RA)
+    (U+0020: SPACE)
+  ਅ (U+0A05: GURMUKHI LETTER A)
+  ਖ (U+0A16: GURMUKHI LETTER KHA)
+  ... (+3 more chars)
+
+--- [pan_0000001] Tier: Tier_3_Line | Font: NotoSerifGurmukhi-Regular.ttf ---
+Raw Text:
+ਰਾਜ ਕੁਮਾਰ ਮੇਹਰਾ
+Tokens (3): ['ਰਾਜ', 'ਕੁਮਾਰ', 'ਮੇਹਰਾ']
+Char Count: 15 | Sample Codepoints:
+  ਰ (U+0A30: GURMUKHI LETTER RA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਜ (U+0A1C: GURMUKHI LETTER JA)
+    (U+0020: SPACE)
+  ਕ (U+0A15: GURMUKHI LETTER KA)
+  ੁ (U+0A41: GURMUKHI VOWEL SIGN U)
+  ਮ (U+0A2E: GURMUKHI LETTER MA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਰ (U+0A30: GURMUKHI LETTER RA)
+    (U+0020: SPACE)
+  ਮ (U+0A2E: GURMUKHI LETTER MA)
+  ੇ (U+0A47: GURMUKHI VOWEL SIGN EE)
+  ਹ (U+0A39: GURMUKHI LETTER HA)
+  ਰ (U+0A30: GURMUKHI LETTER RA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+
+--- [pan_0000002] Tier: Tier_4_Word | Font: BalooPaaji2-Regular.ttf ---
+Raw Text:
+ਵਿੱਚ
+Tokens (1): ['ਵਿੱਚ']
+Char Count: 4 | Sample Codepoints:
+  ਵ (U+0A35: GURMUKHI LETTER VA)
+  ਿ (U+0A3F: GURMUKHI VOWEL SIGN I)
+  ੱ (U+0A71: GURMUKHI ADDAK)
+  ਚ (U+0A1A: GURMUKHI LETTER CA)
+
+--- [pan_0000003] Tier: Tier_4_Word | Font: AnekGurmukhi-Regular.ttf ---
+Raw Text:
+ਦੀ
+Tokens (1): ['ਦੀ']
+Char Count: 2 | Sample Codepoints:
+  ਦ (U+0A26: GURMUKHI LETTER DA)
+  ੀ (U+0A40: GURMUKHI VOWEL SIGN II)
+
+--- [pan_0000004] Tier: Tier_3_Line | Font: NotoSerifGurmukhi-Regular.ttf ---
+Raw Text:
+ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ ਜ਼ਿਲ੍ਹਾ
+Tokens (5): ['ਸ਼ਹੀਦ', 'ਭਗਤ', 'ਸਿੰਘ', 'ਨਗਰ', 'ਜ਼ਿਲ੍ਹਾ']
+Char Count: 26 | Sample Codepoints:
+  ਸ (U+0A38: GURMUKHI LETTER SA)
+  ਼ (U+0A3C: GURMUKHI SIGN NUKTA)
+  ਹ (U+0A39: GURMUKHI LETTER HA)
+  ੀ (U+0A40: GURMUKHI VOWEL SIGN II)
+  ਦ (U+0A26: GURMUKHI LETTER DA)
+    (U+0020: SPACE)
+  ਭ (U+0A2D: GURMUKHI LETTER BHA)
+  ਗ (U+0A17: GURMUKHI LETTER GA)
+  ਤ (U+0A24: GURMUKHI LETTER TA)
+    (U+0020: SPACE)
+  ਸ (U+0A38: GURMUKHI LETTER SA)
+  ਿ (U+0A3F: GURMUKHI VOWEL SIGN I)
+  ੰ (U+0A70: GURMUKHI TIPPI)
+  ਘ (U+0A18: GURMUKHI LETTER GHA)
+    (U+0020: SPACE)
+  ... (+11 more chars)
+
+--- [pan_0000005] Tier: Tier_3_Line | Font: NotoSerifGurmukhi-Regular.ttf ---
+Raw Text:
+ਪੱਥਰਾਂ ਵਾਲਾ ਖੂਹ
+Tokens (3): ['ਪੱਥਰਾਂ', 'ਵਾਲਾ', 'ਖੂਹ']
+Char Count: 15 | Sample Codepoints:
+  ਪ (U+0A2A: GURMUKHI LETTER PA)
+  ੱ (U+0A71: GURMUKHI ADDAK)
+  ਥ (U+0A25: GURMUKHI LETTER THA)
+  ਰ (U+0A30: GURMUKHI LETTER RA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਂ (U+0A02: GURMUKHI SIGN BINDI)
+    (U+0020: SPACE)
+  ਵ (U+0A35: GURMUKHI LETTER VA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਲ (U+0A32: GURMUKHI LETTER LA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+    (U+0020: SPACE)
+  ਖ (U+0A16: GURMUKHI LETTER KHA)
+  ੂ (U+0A42: GURMUKHI VOWEL SIGN UU)
+  ਹ (U+0A39: GURMUKHI LETTER HA)
+
+--- [pan_0000006] Tier: Tier_4_Word | Font: NotoSerifGurmukhi-Regular.ttf ---
+Raw Text:
+ਹੈ
+Tokens (1): ['ਹੈ']
+Char Count: 2 | Sample Codepoints:
+  ਹ (U+0A39: GURMUKHI LETTER HA)
+  ੈ (U+0A48: GURMUKHI VOWEL SIGN AI)
+
+--- [pan_0000007] Tier: Tier_3_Line | Font: BalooPaaji2-Regular.ttf ---
+Raw Text:
+ਹਾਲਾਂਕਿ ਖੇਤੀਬਾੜੀ ਅਰਥ ਸ਼ਾਸਤਰ ਦਾ ਅਧਿਐਨ ਹਾਲ
+Tokens (7): ['ਹਾਲਾਂਕਿ', 'ਖੇਤੀਬਾੜੀ', 'ਅਰਥ', 'ਸ਼ਾਸਤਰ', 'ਦਾ', 'ਅਧਿਐਨ', 'ਹਾਲ']
+Char Count: 40 | Sample Codepoints:
+  ਹ (U+0A39: GURMUKHI LETTER HA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਲ (U+0A32: GURMUKHI LETTER LA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ਂ (U+0A02: GURMUKHI SIGN BINDI)
+  ਕ (U+0A15: GURMUKHI LETTER KA)
+  ਿ (U+0A3F: GURMUKHI VOWEL SIGN I)
+    (U+0020: SPACE)
+  ਖ (U+0A16: GURMUKHI LETTER KHA)
+  ੇ (U+0A47: GURMUKHI VOWEL SIGN EE)
+  ਤ (U+0A24: GURMUKHI LETTER TA)
+  ੀ (U+0A40: GURMUKHI VOWEL SIGN II)
+  ਬ (U+0A2C: GURMUKHI LETTER BA)
+  ਾ (U+0A3E: GURMUKHI VOWEL SIGN AA)
+  ੜ (U+0A5C: GURMUKHI LETTER RRA)
+  ... (+25 more chars)
+================================================================================
+DEEP LINGUISTIC INSPECTION: KAN (kaggle_cloud_pipeline/smoke_fleet_v11_output/shards\kan\kan_train_00000.tar)
+================================================================================
+
+--- [kan_0000000] Tier: Tier_3_Line | Font: NotoSansKannada-Regular.ttf ---
+Raw Text:
+ದೂರದಲ್ಲಿರುವ ಸಹಸ್ರಲಿಂಗದಲ್ಲಿ, ನದಿಯ ಮಧ್ಯದಲ್ಲಿ ಕಲ್ಲುಗಳಲ್ಲಿ ಕೆತ್ತಲಾದ ನೂರಾರು ಶಿವಲಿಂಗಗಳಿವೆ.
+Tokens (8): ['ದೂರದಲ್ಲಿರುವ', 'ಸಹಸ್ರಲಿಂಗದಲ್ಲಿ,', 'ನದಿಯ', 'ಮಧ್ಯದಲ್ಲಿ', 'ಕಲ್ಲುಗಳಲ್ಲಿ', 'ಕೆತ್ತಲಾದ', 'ನೂರಾರು', 'ಶಿವಲಿಂಗಗಳಿವೆ.']
+Char Count: 84 | Sample Codepoints:
+  ದ (U+0CA6: KANNADA LETTER DA)
+  ೂ (U+0CC2: KANNADA VOWEL SIGN UU)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ದ (U+0CA6: KANNADA LETTER DA)
+  ಲ (U+0CB2: KANNADA LETTER LA)
+  ್ (U+0CCD: KANNADA SIGN VIRAMA)
+  ಲ (U+0CB2: KANNADA LETTER LA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ು (U+0CC1: KANNADA VOWEL SIGN U)
+  ವ (U+0CB5: KANNADA LETTER VA)
+    (U+0020: SPACE)
+  ಸ (U+0CB8: KANNADA LETTER SA)
+  ಹ (U+0CB9: KANNADA LETTER HA)
+  ಸ (U+0CB8: KANNADA LETTER SA)
+  ... (+69 more chars)
+
+--- [kan_0000001] Tier: Tier_3_Line | Font: NotoSerifKannada-Regular.ttf ---
+Raw Text:
+ಗುಜರಾತಿ ಭಾಷೆಯಲ್ಲಿದ್ದ ಹಸ್ತಪ್ರತಿಯನ್ನು ಮಹದೇವ್ ದೇಸಾಯಿಯವರು ಆಂಗ್ಲಭಾಷೆ‌ಗೆ ಭಾಷಾಂತರಿಸಿ ಹೆಚ್ಚುವರಿ ಪ್ರಸ್ತಾವನೆ ಮತ್ತು ವ್ಯಾಖ್ಯಾನಗಳನ್ನು ಸೇರಿಸಿದರು.
+Tokens (12): ['ಗುಜರಾತಿ', 'ಭಾಷೆಯಲ್ಲಿದ್ದ', 'ಹಸ್ತಪ್ರತಿಯನ್ನು', 'ಮಹದೇವ್', 'ದೇಸಾಯಿಯವರು', 'ಆಂಗ್ಲಭಾಷೆ\u200cಗೆ', 'ಭಾಷಾಂತರಿಸಿ', 'ಹೆಚ್ಚುವರಿ', 'ಪ್ರಸ್ತಾವನೆ', 'ಮತ್ತು', 'ವ್ಯಾಖ್ಯಾನಗಳನ್ನು', 'ಸೇರಿಸಿದರು.']
+Char Count: 131 | Sample Codepoints:
+  ಗ (U+0C97: KANNADA LETTER GA)
+  ು (U+0CC1: KANNADA VOWEL SIGN U)
+  ಜ (U+0C9C: KANNADA LETTER JA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ತ (U+0CA4: KANNADA LETTER TA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+    (U+0020: SPACE)
+  ಭ (U+0CAD: KANNADA LETTER BHA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ಷ (U+0CB7: KANNADA LETTER SSA)
+  ೆ (U+0CC6: KANNADA VOWEL SIGN E)
+  ಯ (U+0CAF: KANNADA LETTER YA)
+  ಲ (U+0CB2: KANNADA LETTER LA)
+  ್ (U+0CCD: KANNADA SIGN VIRAMA)
+  ... (+116 more chars)
+
+--- [kan_0000002] Tier: Tier_3_Line | Font: NotoSerifKannada-Regular.ttf ---
+Raw Text:
+ಅಂದರೆ- ನಾನು ಯಾವಾಗಲೂ ಸತ್ಯವನ್ನೇ ಎತ್ತಿ ಹಿಡಿಯುತ್ತೇನೆ ಎಂಬುದಾಗಿದೆ.
+Tokens (7): ['ಅಂದರೆ-', 'ನಾನು', 'ಯಾವಾಗಲೂ', 'ಸತ್ಯವನ್ನೇ', 'ಎತ್ತಿ', 'ಹಿಡಿಯುತ್ತೇನೆ', 'ಎಂಬುದಾಗಿದೆ.']
+Char Count: 60 | Sample Codepoints:
+  ಅ (U+0C85: KANNADA LETTER A)
+  ಂ (U+0C82: KANNADA SIGN ANUSVARA)
+  ದ (U+0CA6: KANNADA LETTER DA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ೆ (U+0CC6: KANNADA VOWEL SIGN E)
+  - (U+002D: HYPHEN-MINUS)
+    (U+0020: SPACE)
+  ನ (U+0CA8: KANNADA LETTER NA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ನ (U+0CA8: KANNADA LETTER NA)
+  ು (U+0CC1: KANNADA VOWEL SIGN U)
+    (U+0020: SPACE)
+  ಯ (U+0CAF: KANNADA LETTER YA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ವ (U+0CB5: KANNADA LETTER VA)
+  ... (+45 more chars)
+
+--- [kan_0000003] Tier: Tier_3_Line | Font: AnekKannada-Regular.ttf ---
+Raw Text:
+|೭, ೮, ೯, ೧೦ ಫೆಬ್ರವರಿ ೧೯೮೦
+Tokens (6): ['|೭,', '೮,', '೯,', '೧೦', 'ಫೆಬ್ರವರಿ', '೧೯೮೦']
+Char Count: 26 | Sample Codepoints:
+  | (U+007C: VERTICAL LINE)
+  ೭ (U+0CED: KANNADA DIGIT SEVEN)
+  , (U+002C: COMMA)
+    (U+0020: SPACE)
+  ೮ (U+0CEE: KANNADA DIGIT EIGHT)
+  , (U+002C: COMMA)
+    (U+0020: SPACE)
+  ೯ (U+0CEF: KANNADA DIGIT NINE)
+  , (U+002C: COMMA)
+    (U+0020: SPACE)
+  ೧ (U+0CE7: KANNADA DIGIT ONE)
+  ೦ (U+0CE6: KANNADA DIGIT ZERO)
+    (U+0020: SPACE)
+  ಫ (U+0CAB: KANNADA LETTER PHA)
+  ೆ (U+0CC6: KANNADA VOWEL SIGN E)
+  ... (+11 more chars)
+
+--- [kan_0000004] Tier: Tier_2_Paragraph | Font: BalooTamma2-Regular.ttf ---
+Raw Text:
+ಜಲಸರಬರಾಜಿನ ಸೌಕರ್ಯವುಳ್ಳ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ಕರ್ನಾಟಕದ ಅನ್ನದ ಶಿವಮೊಗ್ಗ ಎಂಬ ಹೆಸರು ಶಿವ-ಮುಖ ಎಂಬ ಪದಪುಂಜದಿಂದ ಬಂದದ್ದು.
+ಇನ್ನೊಂದು ವ್ಯುತ್ಪತ್ತಿಯಂತೆ ಇದು ಸಿಹಿ-ಮೊಗೆ ಸಿಹಿಯಾದ ಮೊಗ್ಗು ಎಂದಿದ್ದು ಅದು ಶಿವಮೊಗ್ಗವಾಗಿ ಮಾರ್ಪಾಟುಹೊಂದಿದೆ.ಈ ಪ್ರದೇಶವು ಕ್ರಿ.ಪೂ.
+Tokens (25): ['ಜಲಸರಬರಾಜಿನ', 'ಸೌಕರ್ಯವುಳ್ಳ', 'ಶಿವಮೊಗ್ಗ', 'ಜಿಲ್ಲೆ', 'ಕರ್ನಾಟಕದ', 'ಅನ್ನದ', 'ಶಿವಮೊಗ್ಗ', 'ಎಂಬ', 'ಹೆಸರು', 'ಶಿವ-ಮುಖ', 'ಎಂಬ', 'ಪದಪುಂಜದಿಂದ', 'ಬಂದದ್ದು.', 'ಇನ್ನೊಂದು', 'ವ್ಯುತ್ಪತ್ತಿಯಂತೆ', 'ಇದು', 'ಸಿಹಿ-ಮೊಗೆ', 'ಸಿಹಿಯಾದ', 'ಮೊಗ್ಗು', 'ಎಂದಿದ್ದು', 'ಅದು', 'ಶಿವಮೊಗ್ಗವಾಗಿ', 'ಮಾರ್ಪಾಟುಹೊಂದಿದೆ.ಈ', 'ಪ್ರದೇಶವು', 'ಕ್ರಿ.ಪೂ.']
+Char Count: 220 | Sample Codepoints:
+  ಜ (U+0C9C: KANNADA LETTER JA)
+  ಲ (U+0CB2: KANNADA LETTER LA)
+  ಸ (U+0CB8: KANNADA LETTER SA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ಬ (U+0CAC: KANNADA LETTER BA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ಜ (U+0C9C: KANNADA LETTER JA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+  ನ (U+0CA8: KANNADA LETTER NA)
+    (U+0020: SPACE)
+  ಸ (U+0CB8: KANNADA LETTER SA)
+  ೌ (U+0CCC: KANNADA VOWEL SIGN AU)
+  ಕ (U+0C95: KANNADA LETTER KA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ... (+205 more chars)
+
+--- [kan_0000005] Tier: Tier_3_Line | Font: BalooTamma2-Regular.ttf ---
+Raw Text:
+ಜರ್ಜರಿತರಾದ ಗಾಂಧಿಯವರು ಒಪ್ಪಿಗೆ ಸೂಚಿಸಿದರು.
+Tokens (4): ['ಜರ್ಜರಿತರಾದ', 'ಗಾಂಧಿಯವರು', 'ಒಪ್ಪಿಗೆ', 'ಸೂಚಿಸಿದರು.']
+Char Count: 39 | Sample Codepoints:
+  ಜ (U+0C9C: KANNADA LETTER JA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ್ (U+0CCD: KANNADA SIGN VIRAMA)
+  ಜ (U+0C9C: KANNADA LETTER JA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+  ತ (U+0CA4: KANNADA LETTER TA)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ದ (U+0CA6: KANNADA LETTER DA)
+    (U+0020: SPACE)
+  ಗ (U+0C97: KANNADA LETTER GA)
+  ಾ (U+0CBE: KANNADA VOWEL SIGN AA)
+  ಂ (U+0C82: KANNADA SIGN ANUSVARA)
+  ಧ (U+0CA7: KANNADA LETTER DHA)
+  ... (+24 more chars)
+
+--- [kan_0000006] Tier: Tier_3_Line | Font: NotoSerifKannada-Regular.ttf ---
+Raw Text:
+ನಿರ್ವಹಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಡಾಕ್/ ಬಂದರಾಗಿದೆ
+Tokens (4): ['ನಿರ್ವಹಿಸಲು', 'ವಿನ್ಯಾಸಗೊಳಿಸಿದ', 'ಡಾಕ್/', 'ಬಂದರಾಗಿದೆ']
+Char Count: 41 | Sample Codepoints:
+  ನ (U+0CA8: KANNADA LETTER NA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+  ರ (U+0CB0: KANNADA LETTER RA)
+  ್ (U+0CCD: KANNADA SIGN VIRAMA)
+  ವ (U+0CB5: KANNADA LETTER VA)
+  ಹ (U+0CB9: KANNADA LETTER HA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+  ಸ (U+0CB8: KANNADA LETTER SA)
+  ಲ (U+0CB2: KANNADA LETTER LA)
+  ು (U+0CC1: KANNADA VOWEL SIGN U)
+    (U+0020: SPACE)
+  ವ (U+0CB5: KANNADA LETTER VA)
+  ಿ (U+0CBF: KANNADA VOWEL SIGN I)
+  ನ (U+0CA8: KANNADA LETTER NA)
+  ್ (U+0CCD: KANNADA SIGN VIRAMA)
+  ... (+26 more chars)
+
+--- [kan_0000007] Tier: Tier_4_Word | Font: BalooTamma2-Regular.ttf ---
+Raw Text:
+ಎಂಬ
+Tokens (1): ['ಎಂಬ']
+Char Count: 3 | Sample Codepoints:
+  ಎ (U+0C8E: KANNADA LETTER E)
+  ಂ (U+0C82: KANNADA SIGN ANUSVARA)
+  ಬ (U+0CAC: KANNADA LETTER BA)

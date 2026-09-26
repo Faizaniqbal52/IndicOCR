@@ -1,0 +1,15 @@
+{
+  "id": "ac2sny/indicpixel-cloud-smoke-test",
+  "title": "indicpixel-cloud-smoke-test",
+  "code_file": "indicpixel_kaggle_cloud_pipeline.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

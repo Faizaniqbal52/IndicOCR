@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IndicPixel Live Telemetry Dashboard | Bhojpuri OCR</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --bg: #080B11;
+      --card-bg: rgba(18, 24, 38, 0.75);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --card-hover: rgba(255, 255, 255, 0.12);
+      --cyan: #00F2FE;
+      --blue: #4FACFE;
+      --purple: #8A2387;
+      --pink: #E94057;
+      --orange: #F27121;
+      --emerald: #10B981;
+      --amber: #F59E0B;
+      --text-main: #F3F4F6;
+      --text-muted: #9CA3AF;
+      --text-dim: #6B7280;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      background-image:
+        radial-gradient(circle at 15% 15%, rgba(0, 242, 254, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 85% 85%, rgba(138, 35, 135, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 50% 50%, rgba(16, 185, 129, 0.04) 0%, transparent 60%);
+      color: var(--text-main);
+      font-family: 'Outfit', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 30px 20px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1100px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    /* Header */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 28px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      backdrop-filter: blur(16px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .logo-badge {
+      width: 48px;
+      height: 48px;
+      background: linear-gradient(135deg, var(--cyan), var(--blue));
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      font-weight: 800;
+      color: #080B11;
+      box-shadow: 0 0 24px rgba(0, 242, 254, 0.35);
+    }
+
+    .title-group h1 {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(90deg, #FFFFFF, #D1D5DB);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .title-group p {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .status-pill {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 18px;
+      background: rgba(16, 185, 129, 0.12);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--emerald);
+      letter-spacing: 0.5px;
+    }
+
+    .status-dot {
+      width: 10px;
+      height: 10px;
+      background-color: var(--emerald);
+      border-radius: 50%;
+      box-shadow: 0 0 12px var(--emerald);
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+
+      50% {
+        transform: scale(1.3);
+        opacity: 0.6;
+      }
+    }
+
+    /* Hero Progress Card */
+    .hero-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 32px;
+      backdrop-filter: blur(20px);
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--cyan), var(--blue), var(--pink));
+    }
+
+    .shard-meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 20px;
+    }
+
+    .shard-title-block span {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--cyan);
+      font-weight: 700;
+    }
+
+    .shard-title-block h2 {
+      font-size: 32px;
+      font-weight: 800;
+      letter-spacing: -1px;
+      margin-top: 4px;
+      font-family: 'JetBrains Mono', monospace;
+      color: #FFFFFF;
+    }
+
+    .shard-stats-block {
+      text-align: right;
+    }
+
+    .percentage-display {
+      font-size: 48px;
+      font-weight: 800;
+      font-family: 'JetBrains Mono', monospace;
+      background: linear-gradient(135deg, var(--cyan), var(--blue));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1;
+    }
+
+    .sample-count-sub {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-top: 6px;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* Giant Progress Bar */
+    .progress-bar-container {
+      width: 100%;
+      height: 28px;
+      background: rgba(0, 0, 0, 0.45);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 999px;
+      padding: 4px;
+      position: relative;
+      overflow: hidden;
+      box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.6);
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #00F2FE 0%, #4FACFE 50%, #00F2FE 100%);
+      background-size: 200% 100%;
+      border-radius: 999px;
+      box-shadow: 0 0 20px rgba(0, 242, 254, 0.6);
+      transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      animation: shimmer 2s linear infinite;
+    }
+
+    @keyframes shimmer {
+      0% {
+        background-position: 100% 0;
+      }
+
+      100% {
+        background-position: -100% 0;
+      }
+    }
+
+    .progress-details-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-top: 24px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .detail-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .detail-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-dim);
+      font-weight: 600;
+    }
+
+    .detail-value {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-main);
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* Multi-Tier Metrics Grid */
+    .metrics-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .metric-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 22px 24px;
+      backdrop-filter: blur(16px);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .metric-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .metric-title {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .metric-badge {
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-weight: 700;
+    }
+
+    .metric-badge.cyan {
+      background: rgba(0, 242, 254, 0.15);
+      color: var(--cyan);
+    }
+
+    .metric-badge.emerald {
+      background: rgba(16, 185, 129, 0.15);
+      color: var(--emerald);
+    }
+
+    .metric-badge.amber {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--amber);
+    }
+
+    .metric-value-huge {
+      font-size: 28px;
+      font-weight: 800;
+      font-family: 'JetBrains Mono', monospace;
+      color: #FFFFFF;
+    }
+
+    .mini-progress-bar {
+      width: 100%;
+      height: 8px;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 999px;
+      overflow: hidden;
+      margin-top: 4px;
+    }
+
+    .mini-progress-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--cyan), var(--blue));
+      border-radius: 999px;
+      transition: width 0.4s ease;
+    }
+
+    .mini-progress-fill.green {
+      background: linear-gradient(90deg, #10B981, #059669);
+    }
+
+    .mini-progress-fill.purple {
+      background: linear-gradient(90deg, #8A2387, #E94057);
+    }
+
+    /* Completed Shards Grid / Pills */
+    .shards-flow-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 24px 28px;
+      backdrop-filter: blur(16px);
+    }
+
+    .flow-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+
+    .flow-title-row h3 {
+      font-size: 16px;
+      font-weight: 700;
+      color: #FFFFFF;
+    }
+
+    .shards-pill-container {
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      gap: 10px;
+    }
+
+    .shard-pill {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 12px 8px;
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      text-align: center;
+      transition: all 0.3s ease;
+    }
+
+    .shard-pill.completed {
+      background: rgba(16, 185, 129, 0.12);
+      border-color: rgba(16, 185, 129, 0.35);
+    }
+
+    .shard-pill.active {
+      background: rgba(0, 242, 254, 0.14);
+      border-color: rgba(0, 242, 254, 0.5);
+      box-shadow: 0 0 16px rgba(0, 242, 254, 0.25);
+      animation: pulse-card 1.8s infinite;
+    }
+
+    @keyframes pulse-card {
+
+      0%,
+      100% {
+        border-color: rgba(0, 242, 254, 0.5);
+      }
+
+      50% {
+        border-color: rgba(0, 242, 254, 0.9);
+      }
+    }
+
+    .pill-num {
+      font-size: 13px;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .shard-pill.completed .pill-num {
+      color: var(--emerald);
+    }
+
+    .shard-pill.active .pill-num {
+      color: var(--cyan);
+    }
+
+    .shard-pill.queued .pill-num {
+      color: var(--text-dim);
+    }
+
+    .pill-status {
+      font-size: 10px;
+      margin-top: 4px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .shard-pill.completed .pill-status {
+      color: var(--emerald);
+    }
+
+    .shard-pill.active .pill-status {
+      color: var(--cyan);
+    }
+
+    .shard-pill.queued .pill-status {
+      color: var(--text-dim);
+    }
+
+    /* Footer */
+    footer {
+      margin-top: 8px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--text-dim);
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- Top Header -->
+    <header>
+      <div class="header-left">
+        <div class="logo-badge">IP</div>
+        <div class="title-group">
+          <h1>IndicPixel Live Synthesis Telemetry</h1>
+          <p>Pan-Indic Multilingual OCR Synthesis Engine &bull; Bhojpuri (bho / Deva)</p>
+        </div>
+      </div>
+      <div class="status-pill" id="live-status-pill">
+        <div class="status-dot"></div>
+        <span id="live-status-text">LIVE SYNTHESIS ACTIVE</span>
+      </div>
+    </header>
+
+    <!-- Main Shard Progress Card -->
+    <div class="hero-card">
+      <div class="shard-meta-row">
+        <div class="shard-title-block">
+          <span>Active WebDataset Shard</span>
+          <h2 id="current-shard-name">bho_train_00019.tar</h2>
+        </div>
+        <div class="shard-stats-block">
+          <div class="percentage-display" id="shard-pct-text">0.0%</div>
+          <div class="sample-count-sub" id="shard-samples-text">0 / 5,000 samples</div>
+        </div>
+      </div>
+
+      <!-- Giant Animated Bar -->
+      <div class="progress-bar-container">
+        <div class="progress-bar-fill" id="shard-progress-bar"></div>
+      </div>
+
+      <!-- Detail Metrics -->
+      <div class="progress-details-grid">
+        <div class="detail-item">
+          <span class="detail-label">Synthesis Throughput</span>
+          <span class="detail-value" id="shard-speed-text">-- it/s</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Elapsed Time</span>
+          <span class="detail-value" id="shard-elapsed-text">--:--</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Estimated Remaining</span>
+          <span class="detail-value" id="shard-eta-text">--:--</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Local Buffer Footprint</span>
+          <span class="detail-value" style="color: var(--emerald);" id="disk-buffer-text">0.015 GB / 2.0 GB</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Multi-Tier Metrics Row -->
+    <div class="metrics-row">
+      <!-- Batch Progress -->
+      <div class="metric-card">
+        <div class="metric-header">
+          <span class="metric-title">Current 10-Shard Batch (Shards 16-25)</span>
+          <span class="metric-badge cyan" id="batch-badge">Shard 19 of 25</span>
+        </div>
+        <div class="metric-value-huge" id="batch-samples-huge">0 / 50,000</div>
+        <div class="mini-progress-bar">
+          <div class="mini-progress-fill" id="batch-progress-bar"></div>
+        </div>
+        <span style="font-size: 12px; color: var(--text-muted);" id="batch-pct-sub">0.0% batch quota completed</span>
+      </div>
+
+      <!-- 500k Bhojpuri Overall -->
+      <div class="metric-card">
+        <div class="metric-header">
+          <span class="metric-title">Overall Bhojpuri Dataset Target</span>
+          <span class="metric-badge emerald">100 Shards</span>
+        </div>
+        <div class="metric-value-huge" id="total-samples-huge">95,000 / 500k</div>
+        <div class="mini-progress-bar">
+          <div class="mini-progress-fill green" id="total-progress-bar"></div>
+        </div>
+        <span style="font-size: 12px; color: var(--text-muted);" id="total-pct-sub">19.0% total corpus
+          synthesized</span>
+      </div>
+
+      <!-- Invariants & Quality Gate -->
+      <div class="metric-card">
+        <div class="metric-header">
+          <span class="metric-title">Zero-Defect Quality Assertions</span>
+          <span class="metric-badge emerald">100% Passed</span>
+        </div>
+        <div class="metric-value-huge" style="color: var(--emerald);">54 / 54</div>
+        <div class="mini-progress-bar">
+          <div class="mini-progress-fill green" style="width: 100%;"></div>
+        </div>
+        <span style="font-size: 12px; color: var(--text-muted);">Active Degradation & Substrate Matrix</span>
+      </div>
+    </div>
+
+    <!-- Shards Flow Grid -->
+    <div class="shards-flow-card">
+      <div class="flow-title-row">
+        <h3>Current Batch Shard Progression (Shards 16 – 25)</h3>
+        <span style="font-size: 12px; color: var(--text-muted);">Atomic WebDataset Tar Packaging</span>
+      </div>
+      <div class="shards-pill-container" id="shards-pill-grid">
+        <!-- Generated dynamically via JS -->
+      </div>
+    </div>
+
+    <footer>
+      IndicPixel Master Telemetry &bull; Faizaniqbal/IndicPixel-Pan-Indic-OCR &bull; Auto-refreshing live every 1,000ms
+    </footer>
+
+  </div>
+
+  <script>
+    async function updateTelemetry() {
+      try {
+        const res = await fetch('/api/status?t=' + Date.now());
+        if (!res.ok) return;
+        const data = await res.json();
+
+        // Shard Level
+        document.getElementById('current-shard-name').textContent = data.current_shard;
+        document.getElementById('shard-pct-text').textContent = data.shard_pct.toFixed(1) + '%';
+        document.getElementById('shard-samples-text').textContent = `${data.shard_current.toLocaleString()} / ${data.shard_total.toLocaleString()} samples`;
+        document.getElementById('shard-progress-bar').style.width = Math.max(1, data.shard_pct) + '%';
+
+        document.getElementById('shard-speed-text').textContent = data.shard_speed;
+        document.getElementById('shard-elapsed-text').textContent = data.shard_elapsed;
+        document.getElementById('shard-eta-text').textContent = data.shard_eta;
+        document.getElementById('disk-buffer-text').textContent = `${data.local_buffer_gb.toFixed(3)} GB / ${data.disk_limit_gb} GB`;
+
+        // Batch Level
+        document.getElementById('batch-badge').textContent = `Shard ${data.shard_idx} of 25`;
+        document.getElementById('batch-samples-huge').textContent = `${data.batch_samples.toLocaleString()} / 50k`;
+        document.getElementById('batch-progress-bar').style.width = data.batch_pct + '%';
+        document.getElementById('batch-pct-sub').textContent = `${data.batch_pct.toFixed(1)}% of 50,000 samples completed`;
+
+        // Total Level
+        document.getElementById('total-samples-huge').textContent = `${data.total_dataset_samples.toLocaleString()} / 500k`;
+        document.getElementById('total-progress-bar').style.width = data.total_pct + '%';
+        document.getElementById('total-pct-sub').textContent = `${data.total_pct.toFixed(1)}% total corpus synthesized (${(data.total_dataset_samples / 5000).toFixed(0)} shards committed)`;
+
+        // Status Pill
+        if (data.status === 'COMPLETED') {
+          document.getElementById('live-status-text').textContent = 'BATCH COMPLETE';
+          document.getElementById('live-status-pill').style.background = 'rgba(16, 185, 129, 0.2)';
+        }
+
+        // Render Shard Pills
+        renderPills(data);
+
+      } catch (err) {
+        console.error("Telemetry fetch error:", err);
+      }
+    }
+
+    function renderPills(data) {
+      const container = document.getElementById('shards-pill-grid');
+      container.innerHTML = '';
+
+      const completedCount = data.batch_completed_shards; // e.g. 3 completed (16, 17, 18)
+      const activeIdx = 16 + completedCount;
+
+      for (let i = 16; i <= 25; i++) {
+        const pill = document.createElement('div');
+        let statusClass = 'queued';
+        let statusText = 'Queued';
+
+        if (i < activeIdx) {
+          statusClass = 'completed';
+          statusText = 'Verified';
+        } else if (i === activeIdx) {
+          statusClass = 'active';
+          statusText = `${data.shard_pct.toFixed(0)}%`;
+        }
+
+        pill.className = `shard-pill ${statusClass}`;
+        pill.innerHTML = `
+          <span class="pill-num">#${String(i).padStart(5, '0')}</span>
+          <span class="pill-status">${statusText}</span>
+        `;
+        container.appendChild(pill);
+      }
+    }
+
+    // Initial fetch and 1-second interval loop
+    updateTelemetry();
+    setInterval(updateTelemetry, 1000);
+  </script>
+</body>
+
+</html>

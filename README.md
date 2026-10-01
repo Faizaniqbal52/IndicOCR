@@ -121,32 +121,32 @@ The dataset comprises 13,250,000 instances organized into a standardized 90 / 5 
 
 The v1.0 release encompasses all 22 official Eighth Schedule languages of India plus Bhojpuri:
 
-| Language | Script | ISO 639-3 | Script Code | Direction | Samples | Shards | Partition Path |
-|---|---|:---:|:---:|:---:|---:|---:|---|
-| **Hindi** | Devanagari | `hin` | `Deva` | LTR | 1,000,000 | 200 | `data/hindi/` |
-| **Urdu** | Extended Arabic | `urd` | `Arab` | RTL | 1,000,000 | 200 | `data/urdu/` |
-| **Bengali** | Bengali | `ben` | `Beng` | LTR | 1,000,000 | 200 | `data/bengali/` |
-| **Tamil** | Tamil | `tam` | `Taml` | LTR | 1,000,000 | 200 | `data/tamil/` |
-| **Marathi** | Devanagari | `mar` | `Deva` | LTR | 1,000,000 | 200 | `data/marathi/` |
-| **Telugu** | Telugu | `tel` | `Telu` | LTR | 500,000 | 100 | `data/telugu/` |
-| **Gujarati** | Gujarati | `guj` | `Gujr` | LTR | 500,000 | 100 | `data/gujarati/` |
-| **Kannada** | Kannada | `kan` | `Knda` | LTR | 500,000 | 100 | `data/kannada/` |
-| **Malayalam** | Malayalam | `mal` | `Mlym` | LTR | 500,000 | 100 | `data/malayalam/` |
-| **Odia** | Odia | `ori` | `Orya` | LTR | 500,000 | 100 | `data/odia/` |
-| **Punjabi** | Gurmukhi | `pan` | `Guru` | LTR | 500,000 | 100 | `data/punjabi/` |
-| **Assamese** | Bengali-Assamese | `asm` | `Beng` | LTR | 500,000 | 100 | `data/assamese/` |
-| **Nepali** | Devanagari | `nep` | `Deva` | LTR | 500,000 | 100 | `data/nepali/` |
-| **Sanskrit** | Devanagari | `san` | `Deva` | LTR | 500,000 | 100 | `data/sanskrit/` |
-| **Santali** | Ol Chiki | `sat` | `Olck` | LTR | 500,000 | 100 | `data/santali/` |
-| **Manipuri** | Meetei Mayek | `mni` | `Mtei` | LTR | 500,000 | 100 | `data/manipuri/` |
-| **Sindhi** | Extended Arabic | `snd` | `Arab` | RTL | 500,000 | 100 | `data/sindhi/` |
-| **Bodo** | Devanagari | `brx` | `Deva` | LTR | 500,000 | 100 | `data/bodo/` |
-| **Bhojpuri** | Devanagari | `bho` | `Deva` | LTR | 500,000 | 100 | `data/bhojpuri/` |
-| **Kashmiri** | Extended Arabic | `kas` | `Arab` | RTL | 500,000 | 100 | `data/kashmiri/` |
-| **Konkani** | Devanagari | `gom` | `Deva` | LTR | 250,000 | 50 | `data/konkani/` |
-| **Maithili** | Devanagari | `mai` | `Deva` | LTR | 250,000 | 50 | `data/maithili/` |
-| **Dogri** | Devanagari | `doi` | `Deva` | LTR | 250,000 | 50 | `data/dogri/` |
-| **Total** | **12 Writing Systems** | **23** | | | **13,250,000** | **2,650** | `data/` |
+| Language | Script | ISO 639-3 | Script Code |
+|---|---|:---:|:---:|
+| **Hindi** | Devanagari | `hin` | `Deva` |
+| **Urdu** | Extended Arabic | `urd` | `Arab` |
+| **Bengali** | Bengali | `ben` | `Beng` |
+| **Tamil** | Tamil | `tam` | `Taml` |
+| **Marathi** | Devanagari | `mar` | `Deva` |
+| **Telugu** | Telugu | `tel` | `Telu` |
+| **Gujarati** | Gujarati | `guj` | `Gujr` |
+| **Kannada** | Kannada | `kan` | `Knda` |
+| **Malayalam** | Malayalam | `mal` | `Mlym` |
+| **Odia** | Odia | `ori` | `Orya` |
+| **Punjabi** | Gurmukhi | `pan` | `Guru` |
+| **Assamese** | Bengali-Assamese | `asm` | `Beng` |
+| **Nepali** | Devanagari | `nep` | `Deva` |
+| **Sanskrit** | Devanagari | `san` | `Deva` |
+| **Santali** | Ol Chiki | `sat` | `Olck` |
+| **Manipuri** | Meetei Mayek | `mni` | `Mtei` |
+| **Sindhi** | Extended Arabic | `snd` | `Arab` |
+| **Bodo** | Devanagari | `brx` | `Deva` |
+| **Bhojpuri** | Devanagari | `bho` | `Deva` |
+| **Kashmiri** | Extended Arabic | `kas` | `Arab` |
+| **Konkani** | Devanagari | `gom` | `Deva` |
+| **Maithili** | Devanagari | `mai` | `Deva` |
+| **Dogri** | Devanagari | `doi` | `Deva` |
+| **Total** | **12 Writing Systems** | **23** | |
 
 ---
 
